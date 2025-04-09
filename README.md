@@ -2,9 +2,7 @@
 
 This project is a **2D Asteroids game** created from scratch in **Java**. In this game, you control a spaceship that must destroy asteroids flying at it to survive. The game includes multiple levels, increasing difficulty, and engaging AI bots for added challenge.
 
-<div align="center">
-  ![Demo](https://github.com/drewberry612/asteroids/blob/main/asteroidsA.gif)
-</div>
+![Demo](https://github.com/drewberry612/asteroids/blob/main/asteroidsA.gif)
 
 ---
 
